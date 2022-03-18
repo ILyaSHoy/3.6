@@ -1,0 +1,20 @@
+C:\Users\Илья Холошной\source\repos\№3.6\bin\Debug\№3.6.exe.config
+C:\Users\Илья Холошной\source\repos\№3.6\bin\Debug\№3.6.exe
+C:\Users\Илья Холошной\source\repos\№3.6\bin\Debug\№3.6.pdb
+C:\Users\Илья Холошной\source\repos\№3.6\obj\Debug\№3.6.csproj.AssemblyReference.cache
+C:\Users\Илья Холошной\source\repos\№3.6\obj\Debug\_3._6.Form1.resources
+C:\Users\Илья Холошной\source\repos\№3.6\obj\Debug\_3._6.Properties.Resources.resources
+C:\Users\Илья Холошной\source\repos\№3.6\obj\Debug\№3.6.csproj.GenerateResource.cache
+C:\Users\Илья Холошной\source\repos\№3.6\obj\Debug\№3.6.csproj.CoreCompileInputs.cache
+C:\Users\Илья Холошной\source\repos\№3.6\obj\Debug\№3.6.exe
+C:\Users\Илья Холошной\source\repos\№3.6\obj\Debug\№3.6.pdb
+C:\Users\ILyaSHoy\source\repos\№3.6\bin\Debug\№3.6.exe.config
+C:\Users\ILyaSHoy\source\repos\№3.6\bin\Debug\№3.6.exe
+C:\Users\ILyaSHoy\source\repos\№3.6\bin\Debug\№3.6.pdb
+C:\Users\ILyaSHoy\source\repos\№3.6\obj\Debug\№3.6.csproj.AssemblyReference.cache
+C:\Users\ILyaSHoy\source\repos\№3.6\obj\Debug\_3._6.Form1.resources
+C:\Users\ILyaSHoy\source\repos\№3.6\obj\Debug\_3._6.Properties.Resources.resources
+C:\Users\ILyaSHoy\source\repos\№3.6\obj\Debug\№3.6.csproj.GenerateResource.cache
+C:\Users\ILyaSHoy\source\repos\№3.6\obj\Debug\№3.6.csproj.CoreCompileInputs.cache
+C:\Users\ILyaSHoy\source\repos\№3.6\obj\Debug\№3.6.exe
+C:\Users\ILyaSHoy\source\repos\№3.6\obj\Debug\№3.6.pdb
