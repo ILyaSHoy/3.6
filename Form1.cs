@@ -36,31 +36,31 @@ namespace _3._6
                 {
                     f = Math.Sinh(x);
                     richTextBox1.Text = "Выброная функция sinh(x)" + Environment.NewLine;
-                    i = 1;
                 }
             if (radioButton2.Checked)
                 {
                     f = Math.Pow(x, 2);
                     richTextBox1.Text = "Выброная функция x²" + Environment.NewLine;
-                    i = 2;
                 }
             if (radioButton3.Checked)
                 {
                     f = Math.Exp(x);
                     richTextBox1.Text = "Выброная функция Exp(x)" + Environment.NewLine;
-                    i = 3;
                 }
             if (x * b < 10 && x * b > 0.5)
                 {
                     g = Math.Exp(f - Math.Abs(b));
+                    i = 1;
                 }
-            if (x * b < 0.5 && x * b > 0.1)
+            else if (x * b < 0.5 && x * b > 0.1)
                 {
                     g = Math.Sqrt(Math.Abs(f + b));
+                    i = 2;
                 }
             else
                 {
                     g = 2 * Math.Pow(f, 2);
+                    i = 3;
                 }
             richTextBox1.Text += Environment.NewLine + "Результат:" + Environment.NewLine;
             richTextBox1.Text += "x=" + x.ToString()+Environment.NewLine;
